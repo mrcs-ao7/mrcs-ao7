@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**mrcs-ao7/mrcs-ao7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha base em programação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+### 📚 Atualmente estudando
+* Lógica de programação
+* HTML e CSS
+* Python
+* C
+* Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Sobre meu GitHub
+Aqui compartilho exercícios, trabalhos acadêmicos e pequenos projetos desenvolvidos durante meus estudos, colocando em prática os conceitos que venho aprendendo.
+
+### 🎯 Objetivo
+Estou buscando minha primeira oportunidade na área de tecnologia e explorando diferentes áreas do desenvolvimento para descobrir onde quero me especializar.
